@@ -1,6 +1,7 @@
 using namespace std;
 #include <iostream>
 
+/* Main Funciton */
 int main(int argc, char *argv[])
 {
 	string str1,str2,str3;
